@@ -1,0 +1,32 @@
+{
+  "companyName": "I Scream Inc.",
+  "headOffice": "South Pole, Antarctica",
+  "established": 2001,
+  "active": true,
+  "topFlavors": [
+    {
+      "name": "Monstrous Mint",
+      "calories": 400,
+      "type": "Ice Cream",
+      "image": "chocolate-mint.svg"
+    },
+    {
+      "name": "Perfect Peach Mango",
+      "calories": 350,
+      "type": "Sorbet",
+      "image": "peach-mango.svg"
+    },
+    {
+      "name": "Galactic Grape Explosion",
+      "calories": 420,
+      "type": "Ice Cream",
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Cosmic Cotton Candy",
+      "calories": 390,
+      "type": "Frozen Yogurt",
+      "image": "ice-cream-xtra2.svg"
+    }
+  ]
+}
