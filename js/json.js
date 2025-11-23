@@ -41,7 +41,7 @@ function showTopFlavors(obj) {
     const flavors = obj.topFlavors;
 
     for (const flavour of flavors) {
-        /* STEP 10a: Create ARTICLE, H2, IMAGE, and PARAGRAPHS */
+        /* STEP 10a:Create ARTICLE, H2, IMAGE, and PARAGRAPHS */
         const article = document.createElement('article');
         const h2 = document.createElement('h2');
         const img = document.createElement('img');
